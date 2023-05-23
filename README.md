@@ -54,3 +54,4 @@ print("---------------------------------------------------------------")
 
 ## Result :
 
+Single server with infinite capacity (M/M/1):(oo/FIFO) has done successfully using Visual components.
